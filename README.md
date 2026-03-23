@@ -1,14 +1,1 @@
-# YEPA-YaEstoyPorAqui-
-YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)YEPA(YaEstoyPorAqui)
-
-YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPAAAAAAAAAAAAAAAAAAAAAAA
-fgdfdgfdgcfdgdfgdfhd
-ghdf
-g
-df
-g
-df
-g
-fd
-gf
-commit 3
+Este repositorio ha sido diseñado como un entorno de trabajo centralizado para el módulo de IMSO, integrando soluciones de gestión de bases de datos relacionales mediante scripts SQL automatizados para la creación y estructuración de tablas, junto con herramientas de asistencia técnica remota para la administración del sistema. El objetivo principal de este proyecto es facilitar el despliegue de esquemas de datos mediante el archivo crear2.sql, garantizando al mismo tiempo un canal de soporte eficiente a través de ejecutables de control remoto como AnyDesk, lo que permite una configuración ágil de los recursos y una resolución de incidencias en tiempo real dentro del entorno de desarrollo. Al consolidar estos recursos en un único punto, se asegura un flujo de trabajo organizado que abarca desde la definición de la arquitectura de datos hasta el mantenimiento técnico necesario para su correcta operación.
